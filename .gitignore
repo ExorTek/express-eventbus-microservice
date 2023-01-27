@@ -1,0 +1,11 @@
+**/node_modules
+**/yarn.lock
+**/yarn-error.log
+**/yarn-debug.log
+**/yarn-integrity
+**/package-lock.json
+**/.DS_Store
+**/.idea
+**/.vscode
+**/.vscode-test
+**/.github
